@@ -15,7 +15,7 @@ object Constants {
     }
 
     object Sessionize {
-        const val scheduleId = "jmuc9diq"
-        const val sponsorsId = "jmuc9diq"
+        const val scheduleId = "4b752cf5"
+        const val sponsorsId = "4b752cf5"
     }
 }
